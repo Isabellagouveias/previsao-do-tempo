@@ -5,13 +5,13 @@ Projeto inspirado na comunidade DevClub, mas expandido com diversas melhorias pr
 
 🚀 Funcionalidades
 
-🔍 Busca por qualquer cidade do mundo
-🌎 Geocoding dinâmico (converte o nome da cidade em latitude/longitude)
-⏱️ Exibe hora local da medição
-🌡️ Mostra temperatura, sensação térmica, condição do tempo e umidade
-🎨 Interface moderna com glassmorphism e responsiva
-🖼️ Fundo dinâmico com imagens de cidades
-⚡ Consumo da API Open-Meteo em tempo real
+🔍 Busca por qualquer cidade do mundo <br>
+🌎 Geocoding dinâmico (converte o nome da cidade em latitude/longitude) <br>
+⏱️ Exibe hora local da medição <br>
+🌡️ Mostra temperatura, sensação térmica, condição do tempo e umidade <br>
+🎨 Interface moderna com glassmorphism e responsiva <br>
+🖼️ Fundo dinâmico com imagens de cidades <br>
+⚡ Consumo da API Open-Meteo em tempo real <br>
 
 🖼️ Demonstração
 
@@ -24,7 +24,7 @@ Projeto inspirado na comunidade DevClub, mas expandido com diversas melhorias pr
 
 🛠️ Tecnologias
 
-HTML5
-CSS3
-JavaScript (ES6+)
-Open-Meteo API
+HTML5 <br>
+CSS3 <br>
+JavaScript (ES6+) <br>
+Open-Meteo API <br>
